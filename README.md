@@ -7,7 +7,7 @@
   
 ## Projects
 ### Mall Customers segmentation
-[Full Project]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.kaggle.com/code/mahmoudakl7/mall-customers-segmentation))
+[Full Project](https://www.kaggle.com/code/mahmoudakl7/mall-customers-segmentation)
 
 -Customer Segmentation: Utilized data analytics to identify key customer segments, enhancing targeted marketing efforts.
 
