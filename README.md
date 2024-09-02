@@ -1,4 +1,7 @@
 # Mahmoud-Akl-Portfolio
+# Aspiring Data Analyst 
+##Technecal skills: Python , Excel , Powerbi , statistical analysis
+
 ## [Movie Recommendation System](link to it)
 this projrect was part of my research which i buld movie recommendation system.
 - Data was taken from dataset 
