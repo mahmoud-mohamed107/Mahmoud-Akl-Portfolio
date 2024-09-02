@@ -3,12 +3,12 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Mahmoud Akl - Data Analyst</title>  
+    <title> Mahmoud Akl - Data Analyst</title>  
     <link href="https://cdn.tailwindcss.com" rel="stylesheet">  
 </head>  
 <body class="bg-gray-100 text-gray-800">  
     <header class="text-center py-10">  
-        <h1 class="text-4xl font-bold">Your Name</h1>  
+        <h1 class="text-4xl font-bold">Mahmoud Akl</h1>  
         <h2 class="text-2xl">Aspiring Data Analyst</h2>  
         <p class="mt-4">Email: your.email@example.com | <a href="your-linkedin-url" class="text-blue-500">LinkedIn</a> | <a href="your-github-url" class="text-blue-500">GitHub</a></p>  
     </header>  
