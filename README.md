@@ -57,7 +57,7 @@ Engaging in diverse activities including disaster response, health services, fun
 training, and social support.
 
 - Volunteer, organizing member at “Resala” foundation, Dokki branch.
-- 
+  
 - Volunteer at “Shagarha” foundation 
 As we believe in Egypt 2030 and the SDGs, I’m a part of green washing.
 
@@ -66,10 +66,6 @@ University
 Working on & selling these exchange programs as a product to undergraduates &     
 graduate 
 
-
-
-
-  
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 - [Data Science Blog](https://medium.com/@shawhin)
