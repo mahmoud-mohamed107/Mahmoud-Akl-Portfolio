@@ -43,14 +43,33 @@
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Courses
+- Python for Data Analytics [june 2024]
+- Excel Skills for Business[December 2023]
+- Successful Negotiation: Essential Strategies and Skills [October 2023 ]
+- Supply Chain [January 2023]
+- ISO 9001 :2015 [July 2022 ]
+- ISO 22000 : 2018 [July 2022 ]
 
+## Voluntary Work 
+- Volunteer at “Egyptian Red Crescent” foundation 
+Engaging in diverse activities including disaster response, health services, fundraising, 
+training, and social support.
+
+- Volunteer, organizing member at “Resala” foundation, Dokki branch.
+- 
+- Volunteer at “Shagarha” foundation 
+As we believe in Egypt 2030 and the SDGs, I’m a part of green washing.
+
+- Member at outgoing global teacher & outgoing global talent program at AIESEC Cairo 
+University  
+Working on & selling these exchange programs as a product to undergraduates &     
+graduate 
+
+
+
+
+  
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 - [Data Science Blog](https://medium.com/@shawhin)
