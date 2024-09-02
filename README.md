@@ -42,4 +42,4 @@
             <p>Feel free to explore my projects and connect with me on <a href="your-linkedin-url" class="text-blue-500">LinkedIn</a> or <a href="your-github-url" class="text-blue-500">GitHub</a>!</p>  
         </footer>  
     </body>  
-    </html>  
+    </html>
