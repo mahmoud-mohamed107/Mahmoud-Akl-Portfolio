@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Excel, Powerbi
 
 ## Education			        		
-- B.S.,Food science and technology | Faculty of Agriculture Ain Shams University (_May 2017_)
-- 
+- B.S.,Food science and technology | Faculty of Agriculture Ain Shams University (_june 2023_)
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
