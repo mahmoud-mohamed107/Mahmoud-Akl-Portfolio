@@ -9,13 +9,13 @@
 ### Mall Customers segmentation
 [Full Project](https://www.kaggle.com/code/mahmoudakl7/mall-customers-segmentation)
 
--Customer Segmentation: Utilized data analytics to identify key customer segments, enhancing targeted marketing efforts.
+- Customer Segmentation: Utilized data analytics to identify key customer segments, enhancing targeted marketing efforts.
 
--Behavioral Insights: Analyzed shopping behaviors and preferences to inform merchandising strategies.
+- Behavioral Insights: Analyzed shopping behaviors and preferences to inform merchandising strategies.
 
--Collaboration: Worked with cross-functional teams to implement segmentation strategies, improving campaign effectiveness.
+- Collaboration: Worked with cross-functional teams to implement segmentation strategies, improving campaign effectiveness.
 
--Performance Tracking: Established KPIs to measure the impact of segmentation on sales and customer satisfaction.
+- Performance Tracking: Established KPIs to measure the impact of segmentation on sales and customer satisfaction.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
