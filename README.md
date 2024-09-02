@@ -16,7 +16,25 @@
 - Collaboration: Worked with cross-functional teams to implement segmentation strategies, improving campaign effectiveness.
 
 - Performance Tracking: Established KPIs to measure the impact of segmentation on sales and customer satisfaction.
+- 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+### Loan Status Prediction
+[Full Project](https://www.kaggle.com/code/mahmoudakl7/loan-status-prediction)
+
+- This project predicts loan status using machine learning, analyzing borrower attributes and loan characteristics. It aims to identify key factors influencing loan approval and default rates.
+
+- The methodology includes data preprocessing, exploratory analysis, and model selection to enhance prediction accuracy. Various algorithms, such as logistic regression and decision trees, are evaluated for effective classification.
+
+- Emphasizing feature engineering and selection, the project improves model performance by refining the dataset. This optimization enhances the robustness and reliability of predictions.
+
+- Ultimately, the project showcases data science applications in finance, demonstrating how predictive analytics can aid in risk assessment and decision-making for lenders. Findings can streamline loan approval processes and reduce default risks.
+
+
+
+
+
+
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
