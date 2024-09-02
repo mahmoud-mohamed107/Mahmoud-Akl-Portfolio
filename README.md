@@ -1,5 +1,9 @@
 # Mahmoud-Akl-Portfolio
-# #Aspiring Data Analyst 
+## Aspiring Data Analyst 
+### Technecal Skills :Python , Excel , Powerbi , statistical analysis
+
+
+
 ##Technecal skills: Python , Excel , Powerbi , statistical analysis
 
 ## [Movie Recommendation System](link to it)
