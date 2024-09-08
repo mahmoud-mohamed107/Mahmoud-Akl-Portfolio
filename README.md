@@ -33,15 +33,26 @@
 ### Car Price Prediction
 [Full Project](https://www.kaggle.com/code/mahmoudakl7/loan-status-prediction)
 
--Project Aim: This project focuses on developing a predictive model for car prices, leveraging advanced machine learning algorithms to analyze and interpret the relationship between various vehicle attributes and their market value.
+- Project Aim: This project focuses on developing a predictive model for car prices, leveraging advanced machine learning algorithms to analyze and interpret the relationship between various vehicle attributes and their market value.
 
--Dataset Utilization: The analysis utilizes a rich dataset from Kaggle, encompassing diverse car listings with features such as brand, model, year of manufacture, mileage, and condition, facilitating a comprehensive exploration of factors affecting pricing.
+- Dataset Utilization: The analysis utilizes a rich dataset from Kaggle, encompassing diverse car listings with features such as brand, model, year of manufacture, mileage, and condition, facilitating a comprehensive exploration of factors affecting pricing.
 
--Analytical Approach: The methodology encompasses data preprocessing, including handling missing values and feature encoding, followed by exploratory data analysis (EDA) to uncover patterns. Multiple regression techniques, including Linear Regression and Random Forest, are employed to optimize predictive accuracy.
+- Analytical Approach: The methodology encompasses data preprocessing, including handling missing values and feature encoding, followed by exploratory data analysis (EDA) to uncover patterns. Multiple regression techniques, including Linear Regression and Random Forest, are employed to optimize predictive accuracy.
 
--Outcome and Insights: The project culminates in a robust predictive model that achieves significant accuracy in price estimation, providing valuable insights into market trends and the determinants of car pricing, thereby demonstrating the practical application of data science in the automotive industry.
+- Outcome and Insights: The project culminates in a robust predictive model that achieves significant accuracy in price estimation, providing valuable insights into market trends and the determinants of car pricing, thereby demonstrating the practical application of data science in the automotive industry.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
+
+### lung cancer prediction | 98% accuracy
+[Full Project](https://www.kaggle.com/code/mahmoudakl7/lung-cancer-prediction-98-accuracy-lgb)
+
+- Objective: The primary goal of this project is to develop a predictive model for lung cancer using survey data. By analyzing patient demographics, medical history, lifestyle factors, and other relevant variables, the model aims to identify individuals at high risk for lung cancer, facilitating early intervention and treatment.
+  
+- Methodology: The project utilizes various machine learning algorithms, including logistic regression, random forests, and gradient boosting, to analyze the survey data. Feature engineering and selection techniques are employed to enhance model performance, and hyperparameter tuning is conducted to optimize the algorithms.
+  
+- Data Utilization: The analysis leverages a comprehensive dataset sourced from an online lung cancer prediction system. The dataset includes 284 instances with 16 attributes such as gender, age, smoking history, and various health indicators, enabling an in-depth exploration of factors influencing lung cancer risk.
+  
+- Expected Outcomes: The successful implementation of this project is expected to improve the early detection of lung cancer by identifying high-risk individuals based on survey data. The model’s predictions will assist healthcare providers in making informed decisions, potentially leading to better patient outcomes and more efficient allocation of medical resources.
 
 ## Courses
 - Python for Data Analytics [june 2024]
