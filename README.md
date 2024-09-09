@@ -57,7 +57,7 @@
 ## Courses
 - Python for Data Analytics [june 2024]
 - Excel Skills for Business[December 2023]
-- Successful Negotiation: Essential Strategies and Skills [October 2023 ]
+- Successful Negotiation: Essential Strategies and Skills [July 2023 ]
 - Supply Chain [January 2023]
 - ISO 9001 :2015 [July 2022 ]
 - ISO 22000 : 2018 [July 2022 ]
